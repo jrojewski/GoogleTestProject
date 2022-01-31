@@ -2,6 +2,8 @@
 
 ## Instructions
 
+At the beginning You have to git clone googletest to the /lib/googletest.
+
 1. Make build directory.
 2. Go to build directory.
 3. Use command:
